@@ -1,0 +1,14 @@
+Funciones para leer XML en SQL Server 
+https://www.youtube.com/watch?v=Ckd9cPb6cLc&t=1s
+
+Consultas usando Xml en SQL SERVER 
+https://www.youtube.com/watch?v=7rgq_N86fU8
+
+Importar datos XML a una tabla.
+https://www.mssqltips.com/sqlservertip/5707/simple-way-to-import-xml-data-into-sql-server-with-tsql/
+
+Cargar archivos XML grandes.
+https://www.mssqltips.com/sqlservertip/1643/using-openrowset-to-read-large-files-into-sql-server/
+
+Importar y procesar data XML.
+https://www.mssqltips.com/sqlservertip/2899/importing-and-processing-data-from-xml-files-into-sql-server-tables/

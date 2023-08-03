@@ -1,0 +1,5 @@
+Creating and working with tables - Part 3 
+https://www.youtube.com/watch?v=JLeaM8pK8dE
+
+Unique key constraint - Part 9 
+https://www.youtube.com/watch?v=oqrsfatxTYE

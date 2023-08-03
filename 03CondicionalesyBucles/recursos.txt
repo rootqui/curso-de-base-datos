@@ -1,0 +1,14 @@
+SQL CASE 
+https://www.youtube.com/watch?v=hfLGYKvejhA
+
+Curso de SQL Server #52 | Lenguaje de Control de Flujo [IF] 
+https://www.youtube.com/watch?v=JZIEevYaY0s
+
+IIF function in SQL Server 
+https://www.youtube.com/watch?v=V8xA_JhpvCs
+
+Instrucción While SQL Server
+https://www.youtube.com/watch?v=Bi1w3ntEBq0
+
+¿Como recorrer una tabla con la instrucción while en SQL? 
+https://www.youtube.com/watch?v=j9jMrvO7fRc

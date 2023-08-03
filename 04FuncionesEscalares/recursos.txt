@@ -1,0 +1,9 @@
+https://www.dotnettricks.com/learn/sqlserver/difference-between-stored-procedure-and-function-in-sql-server
+
+Funciones escalares SQL Server 
+https://www.youtube.com/watch?v=fe15wMKP0a0
+
+Funciones (32-35) Bases de Datos en Microsoft Sql Server 2012 
+https://www.youtube.com/watch?v=CKOprgCZFQA
+
+https://www.wiseowl.co.uk/sql/exercises/standard/scalar-functions/

@@ -1,0 +1,15 @@
+ALTER TABLE sALES.SalesOrderHeaderSalesReason DROP CONSTRAINT FK_SalesOrderHeaderSalesReason_SalesOrderHeader_SalesOrderID
+ALTER TABLE sALES.SalesOrderHeaderSalesReason DROP CONSTRAINT PK_SalesOrderHeaderSalesReason_SalesOrderID_SalesReasonID
+
+DROP INDEX AK_SalesOrderDetail_rowguid ON sales.salesorderdetail
+DROP INDEX IX_SalesOrderDetail_ProductID ON sales.salesorderdetail
+ALTER TABLE SALES.Salesorderdetail DROP CONSTRAINT  PK_SalesOrderDetail_SalesOrderID_SalesOrderDetailID 
+ALTER TABLE SALES.Salesorderdetail DROP CONSTRAINT FK_SalesOrderDetail_SalesOrderHeader_SalesOrderID
+
+DROP INDEX AK_SalesOrderHeader_rowguid ON sales.salesorderheader
+DROP INDEX AK_SalesOrderHeader_SalesOrderNumber ON sales.salesorderheader
+DROP INDEX IX_SalesOrderHeader_CustomerID ON sales.salesorderheader
+DROP INDEX IX_SalesOrderHeader_SalesPersonID ON sales.salesorderheader
+ALTER TABLE sales.salesorderheader DROP COLUMN SalesOrderNumber 
+ALTER TABLE sales.salesorderheader DROP CONSTRAINT PK_SalesOrderHeader_SalesOrderID
+

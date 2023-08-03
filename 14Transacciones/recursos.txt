@@ -1,0 +1,14 @@
+transacción y rollback en SQL 
+https://www.youtube.com/watch?v=4_b3AE7Jnu4
+
+Sql Server begin tran, commit y rollback 
+https://www.youtube.com/watch?v=oJz9CYXSevc
+
+Transacciones 
+https://www.youtube.com/watch?v=xbedZg38dy4
+
+Isolation Levels in Database Management Systems 
+https://www.youtube.com/watch?v=-gxyut1VLcs&t=1s
+
+Niveles de aislamiento que ofrece SQL Server en la gestión de transacciones
+https://verneacademy.com/blog/articulos-data/niveles-de-aislamiento-que-ofrece-sql-server-en-la-gestion-de-transacciones/

@@ -1,0 +1,14 @@
+Procedimientos almacenados (motor de base de datos)
+https://learn.microsoft.com/es-es/sql/relational-databases/stored-procedures/stored-procedures-database-engine?view=sql-server-ver15
+
+Procedimientos Almacenados | Curso de SQL Server #13 
+https://www.youtube.com/watch?v=tpjmONtsXKI
+
+Cómo crear procedimientos almacenados en SQL Server 2017 
+https://www.youtube.com/watch?v=wDCs8OjZevk
+
+58- Cursos SQL - Procedimientos Almacenados Parametros Salida 
+https://www.youtube.com/watch?v=prTs_Diz6xk
+
+Parámetros de SALIDA en procedimientos almacenados sql server y c# 
+https://www.youtube.com/watch?v=ygBbKPmfiEc

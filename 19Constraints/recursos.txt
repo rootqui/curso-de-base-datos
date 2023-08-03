@@ -1,0 +1,15 @@
+Tutorial 8 de SqlServer- CHECK CONSTRAINT 
+https://www.youtube.com/watch?v=-6-GPQbv2Mo
+
+Adding a check constraint - Part 6 
+https://www.youtube.com/watch?v=9Zj5ODhv0b0
+
+SQL CHECK Constraints 
+https://www.youtube.com/watch?v=jfySjOrDy1o
+
+SQL: Default Constraint 
+https://www.youtube.com/watch?v=DiPMzBKJ5-w
+
+Adding a default constraint - Part 4 
+https://www.youtube.com/watch?v=dwSqHhMl32Y
+

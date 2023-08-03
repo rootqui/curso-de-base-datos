@@ -1,0 +1,11 @@
+Operadores Plan de Ejecución URL
+https://learn.microsoft.com/es-es/sql/relational-databases/showplan-logical-and-physical-operators-reference?view=sql-server-ver16
+
+¿Como Mejorar el Rendimiento de tus Consultas ? 
+https://www.youtube.com/watch?v=Tmo7jOgFItE
+
+Optimizacion SQL 
+https://www.youtube.com/watch?v=xaub1tHzXxs
+
+Como leer planes de ejecución 
+https://www.youtube.com/watch?v=RLe82cVbhIY&t=1s

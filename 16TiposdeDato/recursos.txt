@@ -1,0 +1,8 @@
+Creación de tipos definidos por el usuario 
+https://www.youtube.com/watch?v=n04Gwy6T59c
+
+Create User Define Datatype in Sql Server 
+https://www.youtube.com/watch?v=9SYQmuosL4I
+
+Create User Defined Data Types In SQL Server 
+https://www.youtube.com/watch?v=8cL_PUvbhV4

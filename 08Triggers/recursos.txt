@@ -1,0 +1,39 @@
+Triggers
+--------
+
+El término “trigger” es una palabra en inglés que se traduce a nuestro idioma como desencadenador, disparador o gatillo y, tal como su nombre lo indica, se dispara o desencadena automáticamente cuando “algo” sucede.
+
+Los triggers pueden dispararse tras tres tipos de evento:
+1.DML: Se disparan cuando se produce un INSERT, DELETE o UPDATE.
+
+2.DDL: Se disparan cuando se hace un CREATE, ALTER o DROP.
+
+3.LOGON: Se disparan cuando un usuario intenta LOGUEARSE al servidor.
+
+Los trigger también pueden estar creados en tres niveles distintos:
+1.Tabla: Se disparan al producirse un evento DML en la tabla en la que se alojan.
+
+2.Base de datos: Se disparan al producirse un evento DDL en la base de datos en la que se alojan.
+
+3.Servidor: Se disparan al producirse un evento DDL o de LOGON en el servidor de bases de datos
+
+Por lógica, los triggers DML solo pueden estar al nivel de tabla y pueden dividirse a su vez en dos:
+
+1.AFTER: El trigger se ejecuta después de la inserción, eliminación o actualización de datos.
+
+2.INSTEAD OF: El trigger se ejecuta EN LUGAR DE la inserción, eliminación o actualización de datos.
+
+Dentro del trigger se suelen realizar tareas de validación de reglas del negocio, de actualización de datos, de sincronización entre sistemas, tareas administrativas o de gestión de base de datos. Como parte de la validación hecha, el trigger puede cancelar por completo la operación que se estaba realizando.
+Los triggers no pueden ser invocados tal como se hacía con los procedimientos almacenados (que los invocabas con un exec) ni puedes llamarlos como a las funciones (que las llamabas desde un SELECT si eran escalares o desde el FROM si eran TVF’s). Los triggers siempre se van a ejecutar automáticamente tras un evento.
+Otra limitación de los triggers es que no pueden recibir ni devolver argumentos o parámetros.
+
+Las sentencias básicas para trabajar con los triggers son:
+Create Trigger
+Alter Trigger
+Drop Trigger
+
+CREATE TRIGGER (Transact-SQL)
+https://learn.microsoft.com/es-es/sql/t-sql/statements/create-trigger-transact-sql?view=sql-server-ver15
+
+
+

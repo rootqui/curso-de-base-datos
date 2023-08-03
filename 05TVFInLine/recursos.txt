@@ -1,0 +1,9 @@
+Las TVF son de dos tipos:
+1.    Las TVF INLINE: Se usan cuando la función únicamente tiene una sentencia select y nada más.
+2.    Las TVF MULTI-STATEMENT: Se usan cuando la función tiene más de una sentencia select como por ejemplo cuando necesitas usar bucles, variables, hacer inserts, etc.
+
+Sql Server - Funciones con Valores de Tabla 
+https://www.youtube.com/watch?v=1aCHdjmmQ3k
+
+Función de Tabla en Línea con SQL Server 2014 (Review) 
+https://www.youtube.com/watch?v=bspI7eso1CM

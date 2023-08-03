@@ -1,0 +1,14 @@
+<ROOT>
+	<Customers>
+		<Customer CustomerID="C001">
+			<Orders>
+				<Order OrderDate="2012-07-04T00:00:00" OrderID="10248">
+					<OrderDetail Quantity="5" ProductID="10"/>
+					<OrderDetail Quantity="X" ProductID="11"/>
+					<OrderDetail Quantity="10" ProductID="42"/>
+				</Order>
+			</Orders>
+			<Address>Address line 1,2,3</Address>
+		</Customer>
+	</Customers>
+</ROOT>

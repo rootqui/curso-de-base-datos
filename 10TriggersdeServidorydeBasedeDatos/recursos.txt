@@ -1,0 +1,2 @@
+Audit table changes in sql server 
+https://www.youtube.com/watch?v=oaialerWufw&t=2s

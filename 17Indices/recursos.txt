@@ -1,0 +1,29 @@
+Índices Clustered: Se trata de un índice que realiza el ordenamiento físico de los datos según uno o más campos (indicados al crear el índice). Solamente puede haber un índice clustered por tabla.
+
+Índices Non Clustered: Se trata de un índice que realiza un ordenamiento lógico de los datos según uno o más campos. Se pueden tener muchos índices non clustered por tabla.
+
+Los índices Non clustered nos permiten seleccionar campos en dos páginas diferentes:
+
+Columnas del índice: Son las columnas que se utilizan para realizar el ordenamiento de los datos.
+
+Columnas Incluidas: Son columnas que se incluyen en el índice pero que no sirven para el ordenamiento de los datos. Estas columnas permiten devolver datos a un “Select” sin necesidad de recurrir al índice clustered para ello.
+
+Microsoft SQL Server Index Architecture 
+https://www.youtube.com/watch?v=p9FlnOPltA8
+
+Demostración del Poder de los Índices en SQL Server
+https://www.youtube.com/watch?v=PodbAFmHYq8
+
+Creación de Indices | Curso de SQL Server #12 
+https://www.youtube.com/watch?v=y1TxR53RlYU&t=2s
+
+17 Administrando indices en SQL Server 
+https://www.youtube.com/watch?v=H28EcqW3NF8&t=1s
+
+How to do SQL Performance Tuning With Filtered Indexes 
+https://www.youtube.com/watch?v=VOi8ET9d2BA
+
+When Should I Use An Index Hint?
+https://www.youtube.com/watch?v=fvIkbXteA0U
+
+

@@ -1,0 +1,8 @@
+Video 01 Usando la sentencia MERGE h264
+https://www.youtube.com/watch?v=cpoRioRJHUw&t=1s
+
+Using SQL Merge for SCD ETL 
+https://www.youtube.com/watch?v=hbkl4bDDZbk
+
+MERGE (Transact-SQL)
+https://learn.microsoft.com/es-es/sql/t-sql/statements/merge-transact-sql?view=sql-server-ver15

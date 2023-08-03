@@ -1,0 +1,16 @@
+Curso de SQL Server #53 | Variables 
+https://www.youtube.com/watch?v=HuND7jGWJQ4
+
+Tablas Temporales en Sql Server 
+https://www.youtube.com/watch?v=PatXbqn3EcU
+
+Tipos de tablas SQL Server 
+https://www.youtube.com/watch?v=jpMtSOJC2xA
+
+Tipos de datos (Transact-SQL)
+https://learn.microsoft.com/es-es/sql/t-sql/data-types/data-types-transact-sql?view=sql-server-ver15
+
+Cuándo utilizar las tablas temporales de SQL frente a las variables de tabla
+https://www.sqlshack.com/es/cuando-utilizar-las-tablas-temporales-de-sql-frente-a-las-variables-de-tabla/#:~:text=Las%20tablas%20temporales%20locales%20de,la%20base%20de%20datos%20tempdb.
+
+

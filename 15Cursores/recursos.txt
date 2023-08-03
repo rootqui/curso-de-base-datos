@@ -1,0 +1,8 @@
+Cursores (34-35) Bases de Datos en Microsoft Sql Server 2014 
+https://www.youtube.com/watch?v=qlDV5-8zBR0
+
+Curso SQL Server - 48. Cursores (Transact SQL) | UskoKruM2010 
+https://www.youtube.com/watch?v=6aNURdqGo-8
+
+Cursores en el SQL Server 
+https://www.youtube.com/watch?v=j1EmJo9oP14
