@@ -1,2 +1,2 @@
 # CURSO DE BASE DE DATOS
-Este es un repositorio donde se guardan todos las notas acerca del curso de base de datos.
+Este es un repositorio donde se guardan todas las notas acerca de los cursos de base de datos.
